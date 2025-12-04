@@ -1,0 +1,5 @@
+{
+  "name": "MuseMatch - AI Music Analyst",
+  "description": "Analyze music from YouTube links or audio files to generate professional Suno.ai prompts.",
+  "requestFramePermissions": []
+}
